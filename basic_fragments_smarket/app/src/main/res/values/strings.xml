@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">smarket</string>
+
+    <!-- Nav Menu -->
+    <string name="nav_home">Home</string>
+    <string name="nav_products">Products</string>
+    <string name="nav_furniture">Furniture</string>
+    <string name="nav_shopping_cart">cart</string>
+    <string name="nav_profile">Profile</string>
+</resources>
